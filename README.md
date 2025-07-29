@@ -22,3 +22,4 @@
 - 👨‍🏫 [Codementor](https://www.codementor.io/@dhiaeddinegharsallah)
 - 🌍 [TopTal](https://www.toptal.com/resume/dhiaeddine-gharsallah)
 - 💼 [Fiverr](https://www.fiverr.com/dhiaeddineg/)
+- 🐦 [X (Twitter)](https://x.com/dhiabuilds)
