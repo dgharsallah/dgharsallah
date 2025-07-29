@@ -12,7 +12,7 @@
 
 🚀 **Things I’ve built:**
 - 🧠 **Cercina** - a tool that helps non-techy people create a landing page for their business, write blogs & write ads copy (2023)
-- 📚 **Learna** — an AI reading assistant that helps students generate summaries & quizzes from documents/videos to help prepare for their exams (2024)
+- 📚 **[Learna](https://reading-assistant-web.vercel.app/)** — an AI reading assistant that helps students generate summaries & quizzes from documents/videos to help prepare for their exams (2024)
 - 🧩 **Currently building:** [**Solvizor.com**](https://solvizor.com) — an AI agent for analyzing wallets on the Solana blockchain.
 
 ---
