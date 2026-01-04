@@ -11,8 +11,8 @@
 📚 **Taught algorithms & data structures**, helping students & professionals land roles at **Google, Amazon, PayPal, and Goldman Sachs**.
 
 🚀 **Things I’ve built:**
-- 🧠 **[Cercina](https://cercina.vercel.app/)** - a tool that helps non-techy people create a landing page for their business, write blogs & write ads copy (2023)
-- 📚 **[Learna](https://learna-webapp.vercel.app)** — an AI reading assistant that helps students generate summaries & quizzes from documents/videos to help prepare for their exams (2024)
+- 🧠 **[Cercina](https://cercina.vercel.app/)** - a tool that helps non-techy people create a landing page for their business, write blogs & write ads copy
+- 📚 **[Learna](https://learna-webapp.vercel.app)** — an AI reading assistant that helps students generate summaries & quizzes from documents/videos to help prepare for their exams
 - 🧩 **[Solvizor.com](https://solvizor.framer.website/)** — an AI agent for analyzing wallets on the Solana blockchain.
 - 📕 **[Goplans.com](https://www.goplans.app/)** - A Website where to find guides & playbooks for indie hackers by indie hackers
 
